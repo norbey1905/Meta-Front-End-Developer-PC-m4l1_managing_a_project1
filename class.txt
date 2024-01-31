@@ -1,13 +1,13 @@
-Crimson
-Orange
-Blue
-Cyan
-Yellow
-Charcoal
-Khaki
-Coral
-Silver
-Fuchsia
-Purple
-Brown
-Red
+1 carmesi
+2 Naranja
+3 Azul
+4 cian
+5 Amarillo
+6 Carbon
+7 Caqui
+8 Coral
+9 Plata
+10 Fucsina
+11 Purpura
+12 Marron
+13 Rojo
